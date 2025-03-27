@@ -20,7 +20,7 @@
     gap:15px;
     align-items: center;
     height: 50vh;
-    background-color: #d9d4d4;
+    background-color: #3e7fdf;
     width: 100%;
 }
 .card{
@@ -31,7 +31,7 @@
     gap: 10px;
     padding: 20px;
     border-radius: 0.5rem;
-    background-color: #f2f2f2;
+    background-color: #bcb7b7;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 .input-number{
@@ -54,7 +54,7 @@
     justify-content: center;
     align-items: center;
     height: 50vh;
-    background-color: #b3acac;
+    background-color: #d77272;
     width: 100%;
     gap:10px;
 }
